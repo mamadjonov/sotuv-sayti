@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: "/",  // React Router ishlashi uchun
+  base: "/", // React Router ishlashi uchun juda muhim
 });
